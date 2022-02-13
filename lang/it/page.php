@@ -14,7 +14,7 @@
 return [
     'aboutus-advantage'     => 'Perchè',
     'aboutus-advantage1'    => 'Abbiamo membri che conoscono bene il mondo audio/video HD ed esperti nel supporto tecnico.',
-    'aboutus-advantage2'    => 'Assieme alla nostra grande passione per film e programmi TV, offriamo anche una delle migliori selezioni di qualcosa che la maggior parte non ha, NEWS in anteprima! <em>UN GRANDE GRAZIE</em> ai nostri fornitori di contenuti.',
+    'aboutus-advantage2'    => 'Assieme alla nostra grande passione per film e programmi TV, offriamo anche una delle migliori selezioni di qualcosa che la maggior parte non ha, NEWS in anteprima! <em>UN GRANDE RINGRAZIAMENTO</em> ai nostri fornitori di contenuti.',
     'aboutus-advantage3'    => 'Accettiamo donazioni per mantenere il sito attivo e funzionante, per aggiornarlo costantemente in modo che sia sicuro e protetto, non ci saranno pubblicità o banner pestering sul sito. Nessuna elemosina, nessun profitto.',
     'aboutus-advantage4'    => 'La nostra comunità non è seconda a nessuno nonostante la piattaforma sia ancora in tenera età. Lo staff ed una buona base di utenti di vecchia data, sono qui per aiutare. Stiamo lavorando per assicurarci che la tua esperienza su :title diventi a dir poco sorprendente.',
     'aboutus-advantage5'    => 'Il nostro servizio è utilizzato quotidianamente da molte persone in tutto il mondo. Vogliamo dimostrare che un codice base ricco di funzionalità può essere anche affidabile e sicuro. I nostri sviluppatori lavorano quotidianamente per fornire un codice base di nuova generazione.',
