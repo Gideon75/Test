@@ -18,9 +18,9 @@ return [
     'enter-email'            => 'Per favore inserisci la tua e-mail',
     'enter-title'            => 'Si prega di scegliere un titolo appropriato',
     'enter-username'         => 'Per favore inserisci il tuo cognome',
-    'high'                   => 'alto',
-    'low'                    => 'Basso',
+    'high'                   => 'alta',
+    'low'                    => 'Bassa',
     'priority'               => 'Priorità',
-    'priority-description'   => 'Scegli solo molto alto se il bug è davvero un problema per l utilizzo del sito.',
-    'very-high'              => 'Molto alto',
+    'priority-description'   => 'Scegli molto alta solo se il bug è davvero un problema per l utilizzo del sito.',
+    'very-high'              => 'Molto alta',
 ];

@@ -24,7 +24,7 @@ return [
     'latest-topics'           => 'Ultimi argomenti',
     'active-in-last'          => 'Attivo in ultimo',
     'users-online'            => 'Utenti online',
-    'check-news'              => 'Leggi cliccando qui le notizie',
-    'new-news'                => 'Nuove notizie ',
+    'check-news'              => 'Leggi cliccando qui le NEWS di',
+    'new-news'                => 'Nuove NEWS ',
     'new-torrents'            => 'Nuovi torrents',
 ];
