@@ -125,7 +125,7 @@ return [
     'invites'                              => 'Inviti',
     'invites-banned'                       => 'Errore: i tuoi diritti di invito sono stati disabilitati',
     'invites-banned-desc'                  => 'Se ti senti in errore, contatta lo staff!',
-    'invites-count'                        => 'Hai: conta inviti token',
+    'invites-count'                        => 'Hai :count token invito',
     'invites-disabled'                     => 'Attenzione: gli inviti sono disabilitati a causa della registrazione aperta!',
     'invites-disabled-desc'                => 'Si prega di controllare presto!',
     'invites-rules'                        => '<li class="text-success"> Invita solo le persone che conosci e di cui ti fidi. </li><li class="text-danger"> Sarai ritenuto personalmente responsabile per coloro che inviti. </li><li class="text-danger"> Non invitare te stesso, controlliamo ogni utente invitato. </li><li class="text-danger"> Non scambiare o vendere Inviti. </li><li class="text-danger"> Se tu o una persona che hai invitato viene sorpresa a barare o fare trading account, valuteremo la tua responsabilità. </li>',
