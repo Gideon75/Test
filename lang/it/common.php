@@ -115,7 +115,7 @@ return [
     'notifications'        => 'notifiche',
     'older-than'           => 'Più vecchio di',
     'oldest'               => 'il più vecchio',
-    'openreg_activated'    => 'Registrazione aperta attivata',
+    'openreg_activated'    => 'Registrazioni aperte',
     'order-by'             => 'Ordinato da',
     'other'                => 'Altro',
     'pages'                => 'Pagine',
